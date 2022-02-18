@@ -1,1 +1,1 @@
-# Stream Kafka Application
+# Kafka Application
